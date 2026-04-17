@@ -1,1 +1,18 @@
-DOMAIN,yepfastplay.xxlb.net,Emby策略
+
+# Emby 规则
+DOMAIN,my.microsoftpersonalcontent.com,Emby
+DOMAIN,hgemby.qzz.io,Emby
+DOMAIN,emby.bangumi.ca,Emby
+DOMAIN,xying.de,Emby
+DOMAIN,media.emby.pro,Emby
+DOMAIN,cf.sfcj.org,Emby
+DOMAIN,cflocal.xxlb.net,Emby
+DOMAIN,yepfastplay.xxlb.net,Emby
+DOMAIN,ch.feiyue.lol,Emby
+
+# Suffix 类型（更稳）
+DOMAIN-SUFFIX,embyplus.org,Emby
+
+# 直连（不要走 Emby）
+DOMAIN,awstlsb.jegotrip.com.cn,DIRECT
+DOMAIN,awstlsa.jegotrip.com.cn,DIRECT
