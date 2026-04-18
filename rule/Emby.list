@@ -1,14 +1,30 @@
 
 # Emby 规则
+#
 DOMAIN,my.microsoftpersonalcontent.com,Emby
+
+
+# nyamedia
 DOMAIN,hgemby.qzz.io,Emby
 DOMAIN,emby.bangumi.ca,Emby
+
+
+# XYING
 DOMAIN,xying1314.xyz,Emby
+
+
+# 非越
 DOMAIN,media.emby.pro,Emby
 DOMAIN,cf.sfcj.org,Emby
+
+
+# 飞跃彩虹
 DOMAIN,cflocal.xxlb.net,Emby
 DOMAIN,yepfastplay.xxlb.net,Emby
 DOMAIN,ch.feiyue.lol,Emby
+
+
+# 西瓜
 DOMAIN,playlt.chilledmelon.com
 DOMAIN,play.chilledmelon.com
 
@@ -16,4 +32,5 @@ DOMAIN,play.chilledmelon.com
 
 
 # Suffix 类型（更稳）
+# 纸片人
 DOMAIN-SUFFIX,embyplus.org,Emby
