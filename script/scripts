@@ -1,7 +1,8 @@
-#!name=小红书去广告
+#!name=小红书去视频
 #!desc=移除视频
 #!tag=去视频信息流
 #!icon=https://imgtolinkx.com/i/CO0eIFoS
+#!openUrl=https://apps.apple.com/app/id741292507
 
 
 [Rewrite]
