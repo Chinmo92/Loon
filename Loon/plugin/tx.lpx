@@ -1,7 +1,9 @@
-# 腾讯视频去开屏广告
+#!name=腾讯视频去开屏广告
+#!desc=屏蔽腾讯视频开屏广告
+#!tag=去广告
+#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Tencent_Video.png
 
 [Rule]
-
 DOMAIN,ad.tencentvideo.com,REJECT
 DOMAIN,adstats.tencentvideo.com,REJECT
 DOMAIN,info6.video.qq.com,REJECT
