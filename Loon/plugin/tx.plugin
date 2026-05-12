@@ -1,4 +1,8 @@
 # 腾讯视频去开屏广告
+
+
+[Rule]
+
 DOMAIN,ad.tencentvideo.com,REJECT
 DOMAIN,adstats.tencentvideo.com,REJECT
 DOMAIN,info6.video.qq.com,REJECT
